@@ -1,0 +1,22 @@
+.mid{
+   height: 200px;
+   width:50%;
+   margin: 10px;
+}
+.left{
+    height: 500px;
+    width:100%;
+}
+.bottom{
+    height: 150px;
+    width:100%;
+}
+::placeholder {
+    color:white
+  }
+  .box{
+    width: 500px;
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    padding-left: 20px ;
+  }
